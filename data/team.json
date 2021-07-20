@@ -1,0 +1,11 @@
+{
+    "name": "Simon's team",
+    "Heroes": [{
+        "attackPower": 5,
+        "occupation": "king",
+        "level": 1,
+        "name": "sam",
+        "health": 0,
+        "isDead": true
+    }]
+}

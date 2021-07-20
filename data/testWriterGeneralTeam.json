@@ -1,0 +1,21 @@
+{
+    "name": "Simon's team",
+    "Heroes": [
+        {
+            "attackPower": 0,
+            "occupation": "",
+            "level": 1,
+            "name": "noob",
+            "health": 1,
+            "isDead": false
+        },
+        {
+            "attackPower": 100,
+            "occupation": "",
+            "level": 1,
+            "name": "killer",
+            "health": 200,
+            "isDead": false
+        }
+    ]
+}
